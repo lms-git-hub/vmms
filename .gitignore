@@ -1,0 +1,11 @@
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.log
+*.swp
+*.bak
+.DS_Store
+test_db_connection.class
+test_db_connection.java
